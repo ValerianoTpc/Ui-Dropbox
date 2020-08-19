@@ -5,7 +5,7 @@ import GlobalStyles from './styles/GlobalStyles';
 function App() {
   return (
    <>
-      <h1>Lucas Valeriano</h1>
+      <h1>Lucas Valeriano da Silva</h1>
       <GlobalStyles/>
 
    </>
