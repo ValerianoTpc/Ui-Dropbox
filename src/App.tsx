@@ -1,13 +1,13 @@
 import React from 'react';
 import GlobalStyles from './styles/GlobalStyles';
+import Section from './components/Section/intedx';
 
 
 function App() {
   return (
    <>
-      <h1>Lucas Valeriano da Silva</h1>
+      <Section/>
       <GlobalStyles/>
-
    </>
   );
 }
