@@ -1,6 +1,6 @@
 import React from 'react';
 import GlobalStyles from './styles/GlobalStyles';
-import Section from './components/Section/intedx';
+import Section from './components/Section/index';
 import data from './data';
 
 
